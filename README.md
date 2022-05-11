@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALA-TSO
+- 👋 Hi, I’m @uSanele
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on projects
